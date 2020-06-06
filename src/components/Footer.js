@@ -9,4 +9,4 @@ Footer.propTypes = {
   footerMessage: PropTypes.string,
 };
 
-export default Footer
+export default Footer;
