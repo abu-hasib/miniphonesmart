@@ -11,5 +11,8 @@ const env = process.env;
 
 export default {
   port: env.PORT || 8080,
-  hostname: 'localhost'
+  hostname: env.HOST || "0.0.0.0",
+  get serverUrl() {
+    return `http://${this.hostname}:${this.port}`;
+  },
 };

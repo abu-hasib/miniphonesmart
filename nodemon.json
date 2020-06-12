@@ -1,0 +1,14 @@
+{
+  "client_secret": {
+    "type": "service_account",
+    "project_id": "liquid-muse-270113",
+    "private_key_id": "c9f0c6bd51040d17b4821b641942594c955d4205",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDDN2bEz1SUFqJn\nPSGZCSxS3ja2Tcy4jus4Z5ObK29sTEvWcYIp0Nf1IfOPWO5VSTX99b4TD5j/nQL8\njTuvRkTLdbZfgtkRi1Q//4sp2RC1+10GwLChZvnICh3hXDQbn62EVP6/qnnSEDYH\nn0UgW3gifdRNbVvIJHSzrCfuiL1NRbH+4UkRdTGeVkQT0+tgD/cL/A2+1L/zWbpP\nt7pV/pFs6EfQmMhbtX5J20Z1255/fcMdLTW9hQjSweaWdnK7U63q6+ABd5h5Cl0+\nke+aygR8eR92MHTvCg8oLQGwyubkftAhAh/Zo6gkwjr7k3nukpBwEJzjIuXtvJGM\nJoIm+bm5AgMBAAECggEAA9f/agVuQOXN/mjLVI9EFCc6V8FiAPBJD8WnHl/VXc7s\nX1iOaFkrjcp3vtOdcO7afuZry6xIjIZNT/O0wFeKqAbohF23/T4LdqC6RYsRZsPm\nqc9f3idM6I3Q1zMdkFdG71tNEmQ+g2hWTmgdNrnjIt3sMQOwnvKfNm2mJTtqa5Vy\nHLOe3kW7FxpxEiHPOLgtvXWWKkCg/fPTkjsOTMs25wJjKqxcSl9XBeYQmcHl4Zqo\nSTMMrI4QgdNNLOLg+RfNKykuk8D3DOl59iSj0EiolHxFih2QsoY3ziZTB5Ecu3Cf\nN/oMXqB1L6DkAcbNNzJe5Lvv8RAKVxQ2wpySr+8mUQKBgQDpmp8ehu4BYpGwxr6H\nqsxEz5Om4o7PhrIimUAb2m0Upuwzzc8zMZYEbGh6bzFRMN/80Sy1eGkSdYQO1j17\n+CFwp9oAoUp7RIrDTimKlnEJzZzfmRO/M4USKyJEA5U5fkJGHloWD0cIaIZ4LerO\nwttOYMLCNMDiSByRD1H2/ZffBwKBgQDV7qCvKjsN8fsjIz9Wgm/28zeX7xTjiGzi\niI4M+Zn1lkY9ipQk4+M05c2PRnKB8GTmEUCQ2rS/oYZpui5HZJwgbIDIpzXr8yn2\nYlJr+cdt1q+56iUyx1IOX6ehXk1ssdTZkHNvtRbUF7b+G6nSIm8bMdFKiEvBKcze\nmQ3l1+qxPwKBgQCkGcBpm3OaeXnK6vJxL2Rrej5I36Je2kpMz8cfSeOSvGf1RECn\nv8+Yr+b9Cxtj46eVXAPCPyHgm7j3Cz0J1xb2opMcGjHOQioQZNn9xw0FS/FFia07\nhZ+XUcGycankR3Oa+jtif7zwhSzhQ7BNKskQWBy4fIJ68xlONarojOChBQKBgQDS\nNfnERR3kFQttunvJOMBmCxVsgKuo7Gv5qK7URwsmi3QXkq0BFsAyQUDccR+hWKL8\ngqVL8Ou8hS47g4tn8Y+MOLHO+Kb+Y2CvTmuo17ZD0rm3WEEXBU42+30PDkfL7220\nHsGfWXTGEUtpo6sZ5WYBddEuiIDPnJBHhmNmnuRpJwKBgQCw1nOVSvMuIhER/hE/\nRFI2BO7E8Xa9Ic71SwbgkVHWImwlSEcZfqw5mnMu/Q/xnnqrkVjouMvW57q3OsBt\n6FiU3IajLM0T4xJJ55bWeTw7NX5OeIIL4Gfz4XAhJ3HIWfU6YE30GcK6fldGSsFg\nWmykgEWSjgs9RY2ane4qxbLZ5A==\n-----END PRIVATE KEY-----\n",
+    "client_email": "sheets@liquid-muse-270113.iam.gserviceaccount.com",
+    "client_id": "100479475171076039859",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets%40liquid-muse-270113.iam.gserviceaccount.com"
+  }
+}
