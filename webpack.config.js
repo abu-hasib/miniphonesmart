@@ -15,6 +15,18 @@ module.exports = {
           loader: "babel-loader",
         },
       },
+      {
+        test: /\.(png|jpg|gif|svg|eot|ttf|woff|woff2)$/,
+        loader: "url-loader",
+        options: {
+          limit: 10000,
+        },
+      },
+      {
+        test: /\.css$/,
+        use: ["style-loader", "css-loader"],
+        include: [path.join(__dirname, "src"), /node_modules/],
+      },
     ],
   },
 };
